@@ -1,0 +1,1 @@
+Repo containing the code of my talk ["Model Driven Mixed Reality Apps"](https://www.globalxrbootcamp.com/events/model-driven-mixed-reality-apps/) for the Global XR Bootcamp 2020 
